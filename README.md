@@ -5,7 +5,7 @@ A Neural-Semantic Matching Protocol enables real-time job matching by using AI t
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_pwh0gtpwh0gtpwh0.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/4_sfZBcr2.png"
        alt="Project Preview"
        width="600" />
 </p>
@@ -13,7 +13,7 @@ A Neural-Semantic Matching Protocol enables real-time job matching by using AI t
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/architecture_JjvaSwM.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/architecture_JjvaSwM.jpg"
        alt="System Architecture"
        width="600" />
 </p>
